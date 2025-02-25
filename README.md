@@ -1,4 +1,4 @@
-# How Important is Domain Specificity in Language Models and Instruction Finetuning for Biomedical Relation Extraction?
+# How important is domain-specific language model pretraining and instruction finetuning for biomedical relation extraction?
 ---
 # Installation
 Installation directions are for a Linux machine with Python &ge; 3.8.  Download the repository from the command line using 
